@@ -10,9 +10,9 @@ __/UTC__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 </table>
 
 ## Intrø
- - ✏️I'm a student, learning many things day by day.
- - I'm very bad at programming😅
- - 🔭I'm learning perl right now.
+ - **✏️I'm a student, learning many things day by day.**
+ - **I'm very bad at programming😅**
+ - **🔭I'm learning perl right now.**
 
 ## Ėnvirønmẽnt
 <p align='left'>
