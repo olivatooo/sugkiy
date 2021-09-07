@@ -12,7 +12,7 @@ __/UTC__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 ## Intrø
  - **✏️I'm a student, learning many things day by day.**
  - **I'm very bad at programming😅**
- - **🔭I'm learning perlcamel right now.**
+ - **🔭I'm learning perl🐫 right now.**
 
 ## Ėnvirønmẽnt
 <p align='left'>
